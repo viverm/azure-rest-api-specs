@@ -1,0 +1,7 @@
+- powershell:  # inline script
+  workingDirectory:  #
+  displayName:  #
+  failOnStderr:  #
+  errorActionPreference:  #
+  ignoreLASTEXITCODE:  #
+  env:  # mapping of environment variables to add
